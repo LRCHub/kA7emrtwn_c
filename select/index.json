@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゆびきりとアスタリスク",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2026-01-03T14:07:50.488430Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆびきりとアスタリスク (feat. nayuta)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_ゆびきりとアスタリスク_(feat._nayuta)_Vivid_Lila.txt"
+    }
+  ]
+}
